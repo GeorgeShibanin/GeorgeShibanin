@@ -16,7 +16,8 @@ Current GPA - 5.81
 
 ## Skills
 
-Important acquired skills: Python(Flask, REST, gunicorn), C++, Java(ARcore, app development), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning,  Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory(SQL etc)
+Python(есть опыт Flask, REST, gunicorn), C++(средние знания), Java(ARcore, android app development, знания ниже среднего), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning(основы),  Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory
+
 
 
 ## Work Experience
