@@ -24,7 +24,9 @@ Other features): communicative, desire to learn new things,
 experienced  guitar player, winter sports)
 
 
+## Achievements
 
+CoCoS'21 (Conference of Computer Science) -3rd place
 
 
 ## Work Experience
