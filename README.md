@@ -12,11 +12,18 @@ Educational Program: Applied Mathematics and Information Science.
 
 Currently enrolled in a third year of Computer Science course.
 
-Current GPA - 5.81
-
 ## Skills
 
-Python(есть опыт Flask, REST, gunicorn), C++(средние знания), Java(ARcore, android app development, знания ниже среднего), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning(основы),  Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory
+Knowledge of: Python, Java(average), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning(basics), Linux, Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory
+
+
+Have experience: Flask, REST, C++(average), ARcore, android app development, SQL, business data analysis(SAS)
+
+
+Other features): communicative, desire to learn new things,
+experienced  guitar player, winter sports)
+
+
 
 
 
@@ -25,12 +32,12 @@ Python(есть опыт Flask, REST, gunicorn), C++(средние знания
 No
 
 ## University project
-
-1nd year course practice:
+1nd year course practice
 A* implementation(C++)
 
-2nd year course project:
-Creation of augmented reality interfaces(Java + Python)
+2nd year course project
+Creation of augmented reality interfaces(Java + Python + ARcore)
 
-3nd year course project:
-Galaxy Clusters Masses Estimation(Python)
+3nd year course project
+Galaxy Clusters Masses Estimation(Python, tensorFlow): few models of   Regression(tensorFlow probability, Xgboost and others) + Clustrerizations method hdbscan
+
