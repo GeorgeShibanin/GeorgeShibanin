@@ -18,7 +18,7 @@ Knowledge of: Python, Java(average), Machine learning(Tensor Flow, Keras, Scikit
 Hadoop, Docker
 
 
-Have experience: Flask, REST, C++(average), ARcore, android app development, SQL, business data analysis(SAS), ML
+Have experience: REST, C++(average), ARcore, android app development, SQL, business data analysis(SAS), ML(Python), Go
 
 
 Other features): communicative, desire to learn new things
