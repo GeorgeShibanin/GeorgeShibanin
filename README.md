@@ -43,3 +43,8 @@ Creation of augmented reality interfaces(Java + Python + ARcore)
 3nd year course project
 Galaxy Clusters Masses Estimation(Python, tensorFlow): few models of Regression(tensorFlow probability, Xgboost and others) + Clustrerizations method hdbscan
 
+Optimizing customer lists for communication based on transaction history(Python+SAS data analysis)
+
+4th year course project
+Twitter like(Go web-service) - in progress
+
