@@ -2,7 +2,7 @@
 
 ## About
 
-Ищу интересную стажировку с перспективой трудоустройства в хорошей компании.
+
 
 ## Education
 
@@ -21,7 +21,6 @@ Hadoop, Docker
 Have experience: REST, C++(average), ARcore, android app development, SQL, business data analysis(SAS), ML(Python), Go
 
 
-Other features): communicative, desire to learn new things
 
 
 ## Achievements
