@@ -46,6 +46,8 @@ Optimizing customer lists for communication based on transaction history(Python+
 
 4th year course project
 Twitter like(Go web-service)
+
 Decentralized market(Golang)
+
 Trading Bot(Python + TF(Time GAN)) - in progress
 
