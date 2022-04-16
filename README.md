@@ -45,5 +45,6 @@ Galaxy Clusters Masses Estimation(Python, tensorFlow): few models of Regression(
 Optimizing customer lists for communication based on transaction history(Python+SAS data analysis)
 
 4th year course project
-Twitter like(Go web-service) - in progress
+Twitter like(Go web-service)
+Trading Bot(Python + TF(Time GAN)) - in progress
 
