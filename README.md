@@ -7,7 +7,7 @@
 ## Education
 
 HSE
-2018 – 2022
+2017 – 2022
 Educational Program: Applied Mathematics and Information Science.
 
 Currently enrolled in a fourth year of Computer Science course.
