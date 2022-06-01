@@ -14,7 +14,7 @@ Currently enrolled in a fourth year of Computer Science course.
 
 ## Skills
 
-Knowledge of: Python, Java(average), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning(basics), Go(basics), Linux, Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory, SQL, No-SQL(MongoDB),
+Knowledge of: Python, Java(basics), Machine learning(Tensor Flow, Keras, Scikit-learn, Numpy, Pandas, Seaborn), Deep Learning(basics), Golang, Linux, Algorithms and Data Structures, Linear Algebra, Discrete mathematics, Theory of computing and Theoretical Informatics, Database theory, SQL, No-SQL(MongoDB),
 Hadoop, Docker
 
 
